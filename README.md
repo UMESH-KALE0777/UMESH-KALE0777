@@ -339,11 +339,7 @@ Completed a structured 2-month online internship in Machine Learning with Python
 ## Contribution Snake
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UMESH-KALE0777/UMESH-KALE0777/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/UMESH-KALE0777/UMESH-KALE0777/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/UMESH-KALE0777/UMESH-KALE0777/output/github-snake.svg" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/UMESH-KALE0777/UMESH-KALE0777/output/github-snake.svg" alt="snake animation" />
 </p>
 
 ---
