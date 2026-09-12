@@ -115,7 +115,7 @@ Alongside ML, I am building full-stack web development competencies with **HTML,
 | Hyperparameter Tuning | Intermediate | GridSearchCV, cross-validation, performance benchmarking |
 | Data Preprocessing | Advanced | Missing value handling, outlier detection, normalization, encoding |
 | ML Deployment | Intermediate | Streamlit dashboards, modular src/ pipeline architecture |
-| Explainable AI | Intermediate | Bias detection, transparent scoring, SHAP awareness |
+| Explainable AI | Intermediate | Bias detection, transparent scoring, SHAP awareness. |
 | Data Visualization | Intermediate | Plotly interactive charts, Matplotlib, Seaborn statistical plots |
 | Cloud / Azure NLP | Beginner–Intermediate | Natural Language Solutions in Azure (Microsoft certified) |
 
