@@ -204,7 +204,7 @@ Demonstrates a complete, reproducible ML workflow: data ingestion → preprocess
 </details>
 
 <details>
-<summary><strong>Supply Chain Risk Analysis — Predictive Risk Intelligence</strong></summary>
+<summary><strong>Supply Chain Risk Analysis. — Predictive Risk Intelligence</strong></summary>
 
 <br>
 
