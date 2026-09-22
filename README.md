@@ -1,6 +1,6 @@
 # Hi, I'm Umesh Kale 👋
 
-### AI/ML Engineer · Software Developer · Python
+### AI/ML Engineer · Software Developer · Python.
 
 I'm a Software Development Engineer Intern at **Medini Technologies**, where I work on real-world web applications and contribute to products across the **TechVrudhi** and **Medini EduTech** ecosystem.
 
