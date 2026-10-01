@@ -49,8 +49,6 @@ class Developer:
 <p align="center"> <img src="https://skillicons.dev/icons?i=python,javascript,react,vite,tailwind,html,css,fastapi,nodejs,express,postgres,mongodb,docker,git,github,linux&perline=8" alt="Technology stack"/> </p>
 🕹️ Pac-Man Eats My Contributions!
 <p align="center"> <img src="https://raw.githubusercontent.com/UMESH-KALE0777/UMESH-KALE0777/output/pacman-contribution-graph.svg" alt="Pac-Man contribution graph"/> </p>
-🐍 Contribution Snake
-<p align="center"> <img src="https://raw.githubusercontent.com/UMESH-KALE0777/UMESH-KALE0777/output/github-snake-dark.svg" alt="GitHub contribution snake"/> </p>
 📊 GitHub Stats
 <p align="center"> <img src="https://raw.githubusercontent.com/UMESH-KALE0777/UMESH-KALE0777/main/github-stats.svg" alt="GitHub Statistics"/> <br/> <img src="https://raw.githubusercontent.com/UMESH-KALE0777/UMESH-KALE0777/main/top-languages.svg" alt="Top Languages"/> </p>
 🌟 Mission Statement
