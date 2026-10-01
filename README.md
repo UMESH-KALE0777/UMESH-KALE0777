@@ -1,222 +1,63 @@
-# Hi, I'm Umesh Kale 👋
-
-### AI/ML Engineer · Software Developer · Python...
-
-
-I'm a Software Development Engineer Intern at **Medini Technologies**, where I work on real-world web applications and contribute to products across the **TechVrudhi** and **Medini EduTech** ecosystem.
-
-I'm currently focused on building my expertise in **AI/ML Engineering, Python, backend systems, data, and production-ready software**.
-
-I enjoy turning ideas into reliable software — from frontend interfaces and REST APIs to authentication, databases, AI-powered features, and deployment.
-
----
-
-## 👨‍💻 About Me
-
-- 💼 **SDE Intern @ Medini Technologies**
-- 🤖 Transitioning toward **AI/ML & AI Engineering**
-- 🐍 Strong interest in **Python, AI/ML, and backend engineering**
-- 🌐 Experience building **React-based production applications**
-- 🔐 Experience implementing **RBAC and application security**
-- 🛡️ Worked on **anti-cheating systems** for online assessments
-- 🧠 Interested in **Generative AI, RAG, LLM applications, and intelligent systems**
-- ☁️ Exploring **Cloud, APIs, databases, and production deployments**
-- 🎓 Final-year Engineering Student
-- 📦 **23+ GitHub repositories** across public and private projects
-
----
-
-## 💼 Professional Experience
-
-### Software Development Engineer Intern
-**Medini Technologies**
-
-Working on real-world software products and contributing across frontend and backend development.
-
-#### TechVrudhi
-Contributing to the development of **TechVrudhi**, a technology services ecosystem delivering solutions across web development, full-stack development, cloud, and related technologies.
-
-**Contributions include:**
-- Developing and improving web application interfaces
-- Implementing reusable frontend components
-- Integrating frontend functionality with backend APIs
-- Working with modern development workflows and Git
-- Contributing to production-oriented application development
-
-#### Medini EduTech
-Contributing to **Medini EduTech** applications focused on digital learning and online assessment.
-
-**Key contributions include:**
-- Frontend development using React
-- Building responsive and reusable UI components
-- Integrating REST APIs
-- Implementing application workflows and user experiences
-- Contributing to production features and improvements
-
----
-
-## 🛡️ Featured Project — Quiz Application
-
-### Quiz Application — RBAC & Anti-Cheating
-
-A role-based online quiz and assessment platform built with modern React and Vite.
-
-The application supports multiple user roles including:
-
-- 👨‍🎓 Students
-- 👨‍🏫 Trainers / Instructors
-- 🛠️ Administrators
-
-### My Contributions
-
-As a frontend developer, I contributed to the development of the application and worked across both frontend and backend components for the **anti-cheating system**.
-
-**Key work includes:**
-
-- ⚛️ React-based frontend development
-- 🔐 Role-Based Access Control (RBAC)
-- 🛡️ Anti-cheating mechanisms
-- 🔄 Frontend–backend integration
-- 🌐 REST API integration
-- 👤 Role-specific application workflows
-- 📱 Responsive user interfaces
-- 🔒 Security-focused assessment features
-
-### Live Application
-
-👉 https://quiz.mediniedutech.in/
-
----
-
-## 🧠 AI / ML Focus
-
-I'm currently expanding my skills toward **AI Engineering**, with a focus on building practical AI systems rather than only experimenting with models.
-
-### Areas I'm exploring
-
-```text
-Python
-   ↓
-Data Processing
-   ↓
-Machine Learning
-   ↓
-Deep Learning
-   ↓
-Generative AI
-   ↓
-LLMs
-   ↓
-RAG
-   ↓
-AI Agents
-   ↓
-Production AI Systems
-Current Interests
-🤖 Machine Learning
-🧠 Deep Learning
-✨ Generative AI
-📚 Retrieval-Augmented Generation (RAG)
-🔗 LLM Applications
-🧩 AI Agents
-🐍 Python for AI/ML
-📊 Data Analytics
-🗄️ Data & Vector Databases
-☁️ AI Deployment & Cloud
-⚙️ MLOps / AI Infrastructure
-🛠️ Technical Skills
-Languages
-
-Python JavaScript SQL HTML CSS
-
-Frontend
-
-React Vite Tailwind CSS Responsive Design
-
-Backend
-
-Node.js Express.js REST APIs
-
-Databases
-
-PostgreSQL MongoDB
-
-AI / ML
-
-Python Machine Learning Generative AI LLMs RAG AI Applications
-
-Tools & Platforms
-
-Git GitHub GitHub Actions VS Code Postman
-
-Cloud & Deployment
-
-Vercel Azure Cloud Platforms CI/CD
-
-🚀 What I'm Building
-
-I'm currently working toward building projects that combine:
-
-Software Engineering + Data + Artificial Intelligence
-
-Some of the areas I'm exploring include:
-
-🤖 AI-powered applications
-📊 Data analytics platforms
-🧠 RAG-based knowledge assistants
-🔎 Intelligent search systems
-⚙️ AI-powered automation
-🌐 Full-stack applications
-☁️ Cloud-deployed AI systems
-📊 GitHub
-
-I currently have 23+ repositories, including both public and private projects.
-
-Many of my projects involve experimentation, learning, professional development, and real-world application development.
-
-🎯 Current Goal
-
-My goal is to grow into an AI/ML Engineer who can build complete intelligent systems — from data processing and model integration to backend infrastructure, user-facing applications, and production deployment.
-
-Build. Learn. Experiment. Ship. Repeat.
-
-🤝 Let's Connect
-
-I'm always interested in:
-
-AI/ML
-Software Engineering
-Data & Analytics
-Generative AI
-Open Source
-Interesting technical projects
-Collaboration
-
-Feel free to explore my repositories and connect with me.
-
-⭐ If you find something interesting, consider giving the repository a star!
-
-
-### One thing I'd change from your current positioning
-
-I **wouldn't use**:
-
-> `AI/ML Developer · Python · Problem Solver`
-
-as your GitHub headline.
-
-For your current stage, this is stronger:
-
-> **AI/ML Engineer · Software Developer · Python**
-
-Or, if you want to be completely accurate while you're transitioning:
-
-> **SDE Intern · AI/ML Enthusiast · Python Developer**
-
-Personally, **I'd use the first one on the GitHub README** because the rest of the README establishes your actual SDE experience and your AI/ML direction.
-
-Also, I would **not claim "AI Engineer" as your current job title** if you aren't working in that role yet. Position it as your engineering direction/focus rather than misrepresenting your professional experience.
-
-And your **23+ repositories** is worth mentioning, but don't write *"I have 23 repositories"* as though quantity itself is an achievement. The **public/private distinction** is enough; recruiters care much more about the quality of your pinned repositories.
-
-If you want, the next step should be making this **visually premium** too — GitHub stats, contribution streak, 
+<!-- HEADER WAVE --> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,50:0d4f8c,100:00d4ff&height=220&section=header&text=Umesh%20Kale&fontSize=65&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%2FML%20Engineer%20(in%20training)%20%7C%20Builder&descAlignY=55&descSize=18&animation=twinkling" alt="Header"/> <!-- ANIMATED TYPING --> <p align="center"> <a href="https://github.com/UMESH-KALE0777"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&repeat=true&width=650&height=45&lines=Software+Developer+%40+Medini+Technologies;Building+RoleFit+AI+%E2%80%94+Resume+%E2%86%94+JD+Matching+SaaS;VP%2C+AI-YuGa+%7C+Python+%7C+React+%7C+FastAPI" alt="Typing SVG"/> </a> </p> <!-- SOCIAL BADGES --> <p align="center"> <a href="https://github.com/UMESH-KALE0777"> <img src="https://img.shields.io/badge/GitHub-UMESH--KALE0777-00d4ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0e27" alt="GitHub"/> </a> &nbsp; <a href="https://linkedin.com/in/umesh-kale9192/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-00d4ff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0e27" alt="LinkedIn"/> </a> &nbsp; <a href="mailto:YOUR_EMAIL_HERE"> <img src="https://img.shields.io/badge/Email-Contact%20Me-ff6b35?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0e27" alt="Email"/> </a> &nbsp; <img src="https://komarev.com/ghpvc/?username=UMESH-KALE0777&color=00d4ff&style=for-the-badge&label=Profile+Views&abbreviated=true" alt="Profile Views"/> &nbsp; <img src="https://img.shields.io/badge/Open%20To-Internships%20%26%20Collabs-00ff88?style=for-the-badge&labelColor=0a0e27" alt="Open to internships and collaborations"/> </p>
+👨‍💻 About Me
+python
+class Developer:
+    def __init__(self):
+        self.name = "Umesh Kale"
+        self.roles = [
+            "Software Developer @ Medini Technologies",
+            "AI/ML Engineer (in training)"
+        ]
+        self.location = "India"
+        self.education = "Final-Year Engineering Student"
+        self.also = "VP, AI-YuGa (AI-focused student club)"
+
+    def tech_stack(self):
+        return {
+            "frontend": [
+                "React",
+                "Vite",
+                "Tailwind CSS",
+                "JavaScript"
+            ],
+            "backend": [
+                "Python",
+                "FastAPI",
+                "Node.js",
+                "Express.js",
+                "PostgreSQL",
+                "MongoDB"
+            ],
+            "cloud_ai": [
+                "Docker",
+                "Git",
+                "Gemini API",
+                "Linux"
+            ]
+        }
+
+    def current_focus(self):
+        return [
+            "🚀 Shipping RoleFit AI — resume ↔ JD matching SaaS",
+            "🧠 Moving from TF-IDF toward production-viable embeddings",
+            "🌱 Learning RAG, LLM application design, AI agents",
+            "👯 Leading AI-YuGa, a student AI/ML community"
+        ]
+🔥 Streak Stats
+<p align="center"> <img src="https://raw.githubusercontent.com/UMESH-KALE0777/UMESH-KALE0777/main/github-streak-stats.svg" alt="GitHub Streak Stats"/> </p>
+🛠️ Tech Stack & Tools
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,javascript,react,vite,tailwind,html,css,fastapi,nodejs,express,postgres,mongodb,docker,git,github,linux&perline=8" alt="Technology stack"/> </p>
+🕹️ Pac-Man Eats My Contributions!
+<p align="center"> <img src="https://raw.githubusercontent.com/UMESH-KALE0777/UMESH-KALE0777/output/pacman-contribution-graph.svg" alt="Pac-Man contribution graph"/> </p>
+🐍 Contribution Snake
+<p align="center"> <img src="https://raw.githubusercontent.com/UMESH-KALE0777/UMESH-KALE0777/output/github-snake-dark.svg" alt="GitHub contribution snake"/> </p>
+📊 GitHub Stats
+<p align="center"> <img src="https://raw.githubusercontent.com/UMESH-KALE0777/UMESH-KALE0777/main/github-stats.svg" alt="GitHub Statistics"/> <br/> <img src="https://raw.githubusercontent.com/UMESH-KALE0777/UMESH-KALE0777/main/top-languages.svg" alt="Top Languages"/> </p>
+🌟 Mission Statement
+
+Ship useful software, close the gap between prototype and production AI, and build RoleFit AI into something people actually rely on — while helping grow AI-YuGa into a real community of builders, not just a club.
+
+💬 Random Dev Quote
+<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random developer quote"/> </p>
+⚡ Open to Internships, Collaborations & Research
+<p align="center"> <a href="mailto:YOUR_EMAIL_HERE"> <img src="https://img.shields.io/badge/Contact-Email%20Me-00d4ff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0e27" alt="Contact"/> </a> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:0d4f8c,100:0a0e27&height=100&section=footer" alt="Footer"/> </p>
