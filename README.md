@@ -82,7 +82,7 @@ class Developer:
   <img src="https://raw.githubusercontent.com/UMESH-KALE0777/UMESH-KALE0777/main/github-streak-stats.svg" alt="GitHub Streak Stats"/>
 </p>
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack & Tools..
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,javascript,react,vite,tailwind,html,css,fastapi,nodejs,express,postgres,mongodb,docker,git,github,linux&perline=8" alt="Technology stack"/>
