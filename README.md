@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-00d4ff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0e27" alt="LinkedIn"/>
   </a>
   &nbsp;
-  <a href="mailto:YOUR_EMAIL_HERE">
+  <a href="mailto:umesh.kale09192@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-ff6b35?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0e27" alt="Email"/>
   </a>
   &nbsp;
@@ -82,7 +82,7 @@ class Developer:
   <img src="https://raw.githubusercontent.com/UMESH-KALE0777/UMESH-KALE0777/main/github-streak-stats.svg" alt="GitHub Streak Stats"/>
 </p>
 
-### 🛠️ Tech Stack & Tools..
+### 🛠️ Tech Stack & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,javascript,react,vite,tailwind,html,css,fastapi,nodejs,express,postgres,mongodb,docker,git,github,linux&perline=8" alt="Technology stack"/>
@@ -106,9 +106,38 @@ class Developer:
 
 <p align="center">
   <a href="https://leetcode.com/u/Umesh-kale9192/">
-    <img src="https://leetcard.jacoblin.cool/Umesh-kale9192?theme=dark&font=Fira+Code&ext=heatmap" alt="LeetCode Stats"/>
+    <img src="https://img.shields.io/badge/LeetCode-Umesh--kale9192-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0a0e27" alt="LeetCode profile"/>
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/u/Umesh-kale9192/">
+    <img src="https://img.shields.io/badge/🔥-Daily%20Streak-FFA116?style=for-the-badge&labelColor=0a0e27" alt="LeetCode daily streak"/>
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/u/Umesh-kale9192/">
+    <img src="https://img.shields.io/badge/🏆-Max%20Streak-FFA116?style=for-the-badge&labelColor=0a0e27" alt="LeetCode max streak"/>
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/u/Umesh-kale9192/">
+    <img src="https://img.shields.io/badge/✅-Problems%20Solved-00ff88?style=for-the-badge&labelColor=0a0e27" alt="Problems solved"/>
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/u/Umesh-kale9192/">
+    <img src="https://img.shields.io/badge/🎖️-Badges%20Earned-00d4ff?style=for-the-badge&labelColor=0a0e27" alt="LeetCode badges"/>
   </a>
 </p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/Umesh-kale9192/">
+    <img src="https://leetcard.jacoblin.cool/Umesh-kale9192?theme=dark&ext=heatmap" alt="LeetCode Stats"/>
+  </a>
+</p>
+
+### 🤝 Open Source Contributions
+
+| Repository | Contribution |
+|---|---|
+| [CallmeKeefe/llm-hallucination-checker-edge](https://github.com/CallmeKeefe/llm-hallucination-checker-edge) | [Pull request #9](https://github.com/CallmeKeefe/llm-hallucination-checker-edge/pull/9) |
+| [Ahmet-Dedeler/eliminate-cigarettes](https://github.com/Ahmet-Dedeler/eliminate-cigarettes) | [Pull request #4](https://github.com/Ahmet-Dedeler/eliminate-cigarettes/pull/4), [Pull request #6](https://github.com/Ahmet-Dedeler/eliminate-cigarettes/pull/6), [Issue #2](https://github.com/Ahmet-Dedeler/eliminate-cigarettes/issues/2) |
 
 ### 🌟 Mission Statement
 
@@ -123,7 +152,7 @@ Ship useful software, close the gap between prototype and production AI, and bui
 ### ⚡ Open to Internships, Collaborations & Research
 
 <p align="center">
-  <a href="mailto:YOUR_EMAIL_HERE">
+  <a href="mailto:umesh.kale09192@gmail.com">
     <img src="https://img.shields.io/badge/Contact-Email%20Me-00d4ff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0e27" alt="Contact"/>
   </a>
 </p>
