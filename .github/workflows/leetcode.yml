@@ -1,0 +1,30 @@
+name: Update LeetCode card
+
+on:
+  schedule:
+    - cron: "30 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  leetcode:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Build card from live LeetCode data
+        run: python scripts/leetcode_card.py Umesh-kale9192
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add leetcode-card.svg
+          if git diff --staged --quiet; then
+            echo "No changes"
+          else
+            git commit -m "Update LeetCode card [skip ci]"
+            git push
+          fi
