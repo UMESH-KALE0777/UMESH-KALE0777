@@ -1,10 +1,10 @@
 <!-- HEADER WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,50:0d4f8c,100:00d4ff&height=220&section=header&text=Umesh%20Kale&fontSize=65&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%2FML%20Engineer%20(in%20training)%20%7C%20Builder&descAlignY=55&descSize=18&animation=twinkling" alt="Header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,50:0d4f8c,100:00d4ff&height=220&section=header&text=Umesh%20Kale&fontSize=65&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%2FML%20Engineer%20%7C%20Builder&descAlignY=55&descSize=18&animation=twinkling" alt="Header"/>
 
 <!-- ANIMATED TYPING -->
 <p align="center">
   <a href="https://github.com/UMESH-KALE0777">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&repeat=true&width=650&height=45&lines=Software+Developer+%40+Medini+Technologies;Building+RoleFit+AI+%E2%80%94+Resume+%E2%86%94+JD+Matching+SaaS;VP%2C+AI-YuGa+%7C+Python+%7C+React+%7C+FastAPI" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&repeat=true&width=650&height=45&lines=Software+Developer+%40+Medini+Technologies;Building+Practical+AI%2FML+Products;VP%2C+AI-YuGa+%7C+Python+%7C+React+%7C+FastAPI" alt="Typing SVG"/>
   </a>
 </p>
 
@@ -37,7 +37,7 @@ class Developer:
         self.name = "Umesh Kale"
         self.roles = [
             "Software Developer @ Medini Technologies",
-            "AI/ML Engineer (in training)"
+            "AI/ML Engineer"
         ]
         self.location = "India"
         self.education = "Final-Year Engineering Student"
@@ -69,7 +69,6 @@ class Developer:
 
     def current_focus(self):
         return [
-            "🚀 Shipping RoleFit AI — resume ↔ JD matching SaaS",
             "🧠 Moving from TF-IDF toward production-viable embeddings",
             "🌱 Learning RAG, LLM application design, AI agents",
             "👯 Leading AI-YuGa, a student AI/ML community"
@@ -91,7 +90,11 @@ class Developer:
 ### 🕹️ Pac-Man Eats My Contributions!
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/UMESH-KALE0777/UMESH-KALE0777/output/pacman-contribution-graph.svg" alt="Pac-Man contribution graph"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UMESH-KALE0777/UMESH-KALE0777/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/UMESH-KALE0777/UMESH-KALE0777/output/pacman-contribution-graph.svg">
+    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/UMESH-KALE0777/UMESH-KALE0777/output/pacman-contribution-graph.svg">
+  </picture>
 </p>
 
 ### 📊 GitHub Stats
@@ -106,29 +109,19 @@ class Developer:
 
 <p align="center">
   <a href="https://leetcode.com/u/Umesh-kale9192/">
-    <img src="https://img.shields.io/badge/LeetCode-Umesh--kale9192-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0a0e27" alt="LeetCode profile"/>
-  </a>
-  &nbsp;
-  <a href="https://leetcode.com/u/Umesh-kale9192/">
-    <img src="https://img.shields.io/badge/🔥-Daily%20Streak-FFA116?style=for-the-badge&labelColor=0a0e27" alt="LeetCode daily streak"/>
-  </a>
-  &nbsp;
-  <a href="https://leetcode.com/u/Umesh-kale9192/">
-    <img src="https://img.shields.io/badge/🏆-Max%20Streak-FFA116?style=for-the-badge&labelColor=0a0e27" alt="LeetCode max streak"/>
-  </a>
-  &nbsp;
-  <a href="https://leetcode.com/u/Umesh-kale9192/">
-    <img src="https://img.shields.io/badge/✅-Problems%20Solved-00ff88?style=for-the-badge&labelColor=0a0e27" alt="Problems solved"/>
-  </a>
-  &nbsp;
-  <a href="https://leetcode.com/u/Umesh-kale9192/">
-    <img src="https://img.shields.io/badge/🎖️-Badges%20Earned-00d4ff?style=for-the-badge&labelColor=0a0e27" alt="LeetCode badges"/>
+    <img src="https://raw.githubusercontent.com/UMESH-KALE0777/UMESH-KALE0777/main/leetcode-card.svg" width="100%" alt="LeetCode stats, streak and badges"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://leetcode.com/u/Umesh-kale9192/">
-    <img src="https://leetcard.jacoblin.cool/Umesh-kale9192?theme=dark&ext=heatmap" alt="LeetCode Stats"/>
+    <img src="https://leetcode-badge-showcase.vercel.app/api?username=Umesh-kale9192&theme=dark&animated=true" alt="LeetCode Badges"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/Umesh-kale9192/">
+    <img src="https://img.shields.io/badge/LeetCode-View%20Full%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0a0e27" alt="LeetCode profile"/>
   </a>
 </p>
 
@@ -141,7 +134,7 @@ class Developer:
 
 ### 🌟 Mission Statement
 
-Ship useful software, close the gap between prototype and production AI, and build RoleFit AI into something people actually rely on — while helping grow AI-YuGa into a real community of builders, not just a club.
+Ship useful software and close the gap between prototype and production AI — while helping grow AI-YuGa into a real community of builders, not just a club.
 
 ### 💬 Random Dev Quote
 
