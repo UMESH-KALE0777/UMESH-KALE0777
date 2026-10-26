@@ -34,7 +34,7 @@
 ```python
 class Developer:
     def __init__(self):
-        self.name = "Umesh Kale"
+        self.name = "Umesh R Kale"
         self.roles = [
             "Software Developer @ Medini Technologies",
             "AI/ML Engineer"
