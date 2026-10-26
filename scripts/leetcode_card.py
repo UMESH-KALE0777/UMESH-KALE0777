@@ -64,7 +64,7 @@ def fetch(user):
         easy=(got["Easy"], tot["Easy"]), medium=(got["Medium"], tot["Medium"]),
         hard=(got["Hard"], tot["Hard"]), streak=cur, max_streak=best,
         active_days=cal["totalActiveDays"], submissions=sum(days.values()),
-        badge_count=len(badges), badges=[x["displayName"] for x in badges[:6]], days=days)
+        badge_count=len(badges), badges=[x["displayName"] for x in badges[:12]], days=days)
 
 
 def render(d):
@@ -97,13 +97,19 @@ def render(d):
     s += [f'<text x="490" y="122" font-size="14" fill="#9a9a9a">Badges</text>',
           f'<text x="490" y="158" font-size="34" font-weight="700" fill="#fff">{d["badge_count"]}</text>']
     x, y = 490, 186
+    shown = 0
     for name in d["badges"]:
         w = 14 + 7.2 * len(name)
         if x + w > 855:
             x, y = 490, y + 34
+        if y > 220:
+            break
         s += [f'<rect x="{x}" y="{y}" width="{w:.0f}" height="26" rx="13" fill="#3a3a3a"/>',
               f'<text x="{x+w/2:.0f}" y="{y+18}" font-size="12" fill="#ffa116" text-anchor="middle">{e(name)}</text>']
         x += w + 8
+        shown += 1
+    if d["badge_count"] > shown:
+        s.append(f'<text x="530" y="157" font-size="13" fill="#9a9a9a">showing the {shown} most recent</text>')
     # stat tiles
     tiles = [("Current streak", f'{d["streak"]} days'), ("Max streak", f'{d["max_streak"]} days'),
              ("Total active days", d["active_days"]), ("Submissions (1 yr)", d["submissions"])]
