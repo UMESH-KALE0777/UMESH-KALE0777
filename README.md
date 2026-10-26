@@ -34,7 +34,7 @@
 ```python
 class Developer:
     def __init__(self):
-        self.name = "Umesh R Kale"
+        self.name = "Umesh Kale"
         self.roles = [
             "Software Developer @ Medini Technologies",
             "AI/ML Engineer"
@@ -95,14 +95,6 @@ class Developer:
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/UMESH-KALE0777/UMESH-KALE0777/output/pacman-contribution-graph.svg">
     <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/UMESH-KALE0777/UMESH-KALE0777/output/pacman-contribution-graph.svg">
   </picture>
-</p>
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/UMESH-KALE0777/UMESH-KALE0777/main/github-stats.svg" alt="GitHub Statistics"/>
-  <br/>
-  <img src="https://raw.githubusercontent.com/UMESH-KALE0777/UMESH-KALE0777/main/top-languages.svg" alt="Top Languages"/>
 </p>
 
 ### 🧩 LeetCode
