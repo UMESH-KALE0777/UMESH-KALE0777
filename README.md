@@ -1,7 +1,5 @@
-# 👋 Hi, I'm Umesh Kale
-
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Umesh%20Kale&fontSize=60&fontColor=ffffff&fontAlignY=42&desc=AI%20Engineer%20%26%20Full-Stack%20Developer&descAlignY=64&descSize=20" alt="Umesh Kale - AI Engineer and Full-Stack Developer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Umesh%20Kale&fontSize=65&fontColor=ffffff&fontAlignY=35&desc=AI%20Engineer%20%26%20Full-Stack%20Developer&descAlignY=55&descSize=20&animation=twinkling" alt="Umesh Kale - AI Engineer and Full-Stack Developer"/>
 
   <a href="https://github.com/UMESH-KALE0777">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&repeat=true&width=700&height=40&lines=Software+Developer+%40+Medini+Technologies;Building+AI-Powered+Applications;Python+%7C+Node.js+%7C+Backend+Engineering;Machine+Learning+%7C+Generative+AI;AI+Engineer+%7C+Full-Stack+Developer" alt="Typing SVG"/>
@@ -132,8 +130,7 @@ Beyond development, I actively explore open-source projects, collaborate with de
 ## 📈 GitHub Activity
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/UMESH-KALE0777/UMESH-KALE0777/main/github-stats.svg" alt="GitHub Stats" width="49%"/>
-  <img src="https://raw.githubusercontent.com/UMESH-KALE0777/UMESH-KALE0777/main/github-streak-stats.svg" alt="GitHub Streak Stats" width="49%"/>
+  <img src="https://raw.githubusercontent.com/UMESH-KALE0777/UMESH-KALE0777/main/github-streak-stats.svg" alt="GitHub Streak Stats"/>
 </div>
 
 ---
@@ -142,9 +139,9 @@ Beyond development, I actively explore open-source projects, collaborate with de
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UMESH-KALE0777/UMESH-KALE0777/pacman-graph/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/UMESH-KALE0777/UMESH-KALE0777/pacman-graph/pacman-contribution-graph.svg">
-    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/UMESH-KALE0777/UMESH-KALE0777/pacman-graph/pacman-contribution-graph.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UMESH-KALE0777/UMESH-KALE0777/main/assets/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/UMESH-KALE0777/UMESH-KALE0777/main/assets/pacman-contribution-graph.svg">
+    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/UMESH-KALE0777/UMESH-KALE0777/main/assets/pacman-contribution-graph.svg" width="100%">
   </picture>
 </div>
 
