@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Umesh%20Kale&fontSize=65&fontColor=ffffff&fontAlignY=35&desc=AI%20Engineer%20%26%20Full-Stack%20Developer&descAlignY=55&descSize=20&animation=twinkling" alt="Umesh Kale - AI Engineer and Full-Stack Developer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Umesh%20Kale&fontSize=65&fontColor=ffffff&fontAlignY=35&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=55&descSize=20&animation=twinkling" alt="Umesh Kale - AI Engineer and Full-Stack Developer"/>
 
   <a href="https://github.com/UMESH-KALE0777">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&repeat=true&width=700&height=40&lines=Software+Developer+%40+Medini+Technologies;Building+AI-Powered+Applications;Python+%7C+Node.js+%7C+Backend+Engineering;Machine+Learning+%7C+Generative+AI;AI+Engineer+%7C+Full-Stack+Developer" alt="Typing SVG"/>
