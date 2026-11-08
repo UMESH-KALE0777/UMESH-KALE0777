@@ -172,6 +172,14 @@ I enjoy contributing to open-source projects, improving existing implementations
 
 ---
 
+## 💬 Developer Quote
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/UMESH-KALE0777/UMESH-KALE0777/main/dev-quote.svg" width="100%" alt="Random developer quote"/>
+</div>
+
+---
+
 ## 📬 Let's Connect
 
 I'm always interested in connecting with developers, exploring new opportunities, contributing to open source and building meaningful technology.
@@ -185,5 +193,5 @@ I'm always interested in connecting with developers, exploring new opportunities
     <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <br/><br/>
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" alt="Footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer&text=Thanks%20for%20visiting&fontSize=24&fontColor=ffffff&fontAlignY=70" alt="Footer"/>
 </div>
